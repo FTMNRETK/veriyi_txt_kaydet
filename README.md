@@ -1,0 +1,1 @@
+# veriyi_txt_kaydet
